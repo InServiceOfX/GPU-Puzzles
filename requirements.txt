@@ -1,0 +1,12 @@
+# Do pip install -r requirements.txt to install the following. I recommend to
+# do this in a virtual environment.
+###### Requirements without Version Specifiers ######
+
+jupyter
+numba
+pytest
+
+###### From the GPU_puzzlers.ipynb notebook ######
+
+git+https://github.com/chalk-diagrams/planar
+git+https://github.com/danoneata/chalk@srush-patch-1
